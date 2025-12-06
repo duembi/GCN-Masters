@@ -1,5 +1,5 @@
 EN
-# GCN-Masters-
+# GCN-Masters
 TEKNOFEST 2025 – Smart Transportation Category
 
 Deep Learning–Based Traffic Flow Prediction for Multi-Intersection Networks
