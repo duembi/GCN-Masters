@@ -79,6 +79,7 @@ Academic researchers
 -------------------------------------------------------------------------------------------------------------------------------------------------
 
 TR
+
 Çoklu Kavşaklar İçin Derin Öğrenme Tabanlı Trafik Akış Tahmini
 
 TEKNOFEST 2025 – Akıllı Ulaşım Kategorisi
