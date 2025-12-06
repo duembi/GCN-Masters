@@ -1,4 +1,5 @@
 # GCN Masters
+<img width="2816" height="1536" alt="GCNMasters" src="https://github.com/user-attachments/assets/ea58e587-1aa1-4649-a541-4d4eb807cb0c" />
 
 ## EN
 
